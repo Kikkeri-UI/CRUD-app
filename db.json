@@ -1,0 +1,81 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstName": "addtest123",
+      "lastName": "testadd",
+      "email": "dfvsdf",
+      "dob": "2023-09-03T23:00:00.000Z",
+      "gender": "female",
+      "education": "Diploma",
+      "company": "sdf",
+      "expereince": 2,
+      "salary": "32232",
+      "id": 7
+    },
+    {
+      "firstName": "addtest11",
+      "lastName": "testadd",
+      "email": "dfvsdf",
+      "dob": "2023-09-03T23:00:00.000Z",
+      "gender": "",
+      "education": "Diploma",
+      "company": "sdf",
+      "expereince": 3,
+      "salary": "32232",
+      "id": 8
+    },
+    {
+      "firstName": "test111",
+      "lastName": "1",
+      "email": "test@admin.com",
+      "dob": "2023-09-12T23:00:00.000Z",
+      "gender": "female",
+      "education": "Bachelors",
+      "company": "Benz",
+      "expereince": 6,
+      "salary": "1250000",
+      "id": 10
+    },
+    {
+      "firstName": "addtest11",
+      "lastName": "testadd",
+      "email": "dfvsdf",
+      "dob": "2023-09-03T23:00:00.000Z",
+      "gender": "",
+      "education": "Diploma",
+      "company": "sdf",
+      "expereince": 3,
+      "salary": "32232",
+      "id": 11
+    },
+    {
+      "firstName": "SnackBar",
+      "lastName": "Tester",
+      "email": "snack@test.com",
+      "dob": "2023-09-24T23:00:00.000Z",
+      "gender": "female",
+      "education": "Bachelors",
+      "company": "New Company",
+      "expereince": 4,
+      "salary": "10000",
+      "id": 12
+    }
+  ]
+}
